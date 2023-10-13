@@ -10,7 +10,7 @@ This wallpaper application allows users to browse and download high-quality wall
 <img width="200" height="350" src="screenshots/Screenshot_20231013-115222.png" alt="Image" >  <img width="200" height="350" src="screenshots/Screenshot_20231013-115228.png" alt="Image" >
 
 # Features
-Trending: Explore the latest trending wallpapers.
+Trending: Explore the latest trending wallpapers.\n
 New: Discover recently added wallpapers.
 Popular: See wallpapers with the highest user ratings.
 Movies: Find wallpapers related to popular movies.
