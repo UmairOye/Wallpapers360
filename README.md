@@ -41,7 +41,9 @@ Build and run the project using Android Studio.
 
 # Dependencies
 Retrofit: For making network requests.
+
 Glide: For loading and caching images.
+
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request.
 
