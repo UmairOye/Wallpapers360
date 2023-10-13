@@ -1,6 +1,6 @@
 package com.example.pexelswallpaper.utils
 
 object Constants {
-    val API_KEY = "BOTFQYEZeuTyoiy8mRl8N7Ihp1bV22QsDL5cjy903gE9wtN5wT4lQIWn"
+    val API_KEY = "YOUR_API_KEY"
     val TAG = "PEXLES-TAG"
 }
