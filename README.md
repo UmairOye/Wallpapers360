@@ -25,12 +25,16 @@ Super Hero: Get wallpapers featuring your favorite superheroes.
 Cars: Explore high-resolution wallpapers of cars.
 
 Technologies: Discover wallpapers related to cutting-edge technologies.
+
 Dark/Night Mode: Toggle between dark and night modes for a comfortable viewing experience.
+
 Download: Download wallpapers to your device for offline use.
-Getting Started
+
+# Getting Started
 To run this project locally, follow these steps:
 
 Clone this repository: git clone https://github.com/UmairOye/Wallpapers360.git
+
 Add your Pexels API key in utils/Constants.kt, you can get your Pexels API key at https://www.pexels.com/api/documentation/.
 Build and run the project using Android Studio.
 
