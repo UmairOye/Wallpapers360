@@ -10,13 +10,20 @@ This wallpaper application allows users to browse and download high-quality wall
 <img width="200" height="350" src="screenshots/Screenshot_20231013-115222.png" alt="Image" >  <img width="200" height="350" src="screenshots/Screenshot_20231013-115228.png" alt="Image" >
 
 # Features
-Trending: Explore the latest trending wallpapers.\n
+Trending: Explore the latest trending wallpapers.
+
 New: Discover recently added wallpapers.
+
 Popular: See wallpapers with the highest user ratings.
+
 Movies: Find wallpapers related to popular movies.
+
 Anime: Get wallpapers from your favorite anime series.
+
 Super Hero: Get wallpapers featuring your favorite superheroes.
+
 Cars: Explore high-resolution wallpapers of cars.
+
 Technologies: Discover wallpapers related to cutting-edge technologies.
 Dark/Night Mode: Toggle between dark and night modes for a comfortable viewing experience.
 Download: Download wallpapers to your device for offline use.
