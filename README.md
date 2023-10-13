@@ -47,8 +47,5 @@ Glide: For loading and caching images.
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request.
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 # Acknowledgements
 Pexels API: For providing beautiful wallpapers https://www.pexels.com/.
