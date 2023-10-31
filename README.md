@@ -50,3 +50,7 @@ Contributions are welcome! Please feel free to submit a pull request.
 # Acknowledgements
 <img width="250" height="150" src="https://cdn-images-1.medium.com/v2/resize:fit:800/1*hCLxRgOtiWBy4ykQZ1toWQ@2x.png" alt="Image" >
 Pexels API: For providing beautiful wallpapers https://www.pexels.com/.
+
+## Don't Forget to Star ⭐
+
+If you found this project useful or had fun exploring it, please consider giving it a star. It's a great way to show your appreciation and it puts a smile on my face! 😊🌟
